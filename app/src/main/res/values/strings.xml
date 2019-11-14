@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">droid-example</string>
+    <string name="fragment_label">Fragment</string>
+    <string name="network_login_label">Login with Web Service</string>
+    <string name="network_call_recycler_view_label">Network Call &amp; RecyclerView</string>
+    <string name="login_label">Login</string>
+    <string name="multithreading_label">MultiThreading</string>
+    <string name="execute_multi_thread">Execute MultiThread</string>
+    <string name="execute_single_thread">Execute Single Thread</string>
+</resources>

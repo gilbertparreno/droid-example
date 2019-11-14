@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Danny Green",
+    "position": "Shooting guard",
+    "image_url": "image link"
+  },
+  {
+    "name": "LeBron James",
+    "position": "Small Forward",
+    "image_url": "image link"
+  },
+  {
+    "name": "Anthony Davis",
+    "position": "Power Forward",
+    "image_url": "image link"
+  }
+]
